@@ -20,7 +20,7 @@ var ler = (arquivo) => {
   return objeto;
 };
 
-console.log(ler("userx.json"));
+console.log(ler("user.json"));
 
 const user = {
   id: 2,
